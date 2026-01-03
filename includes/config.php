@@ -2,10 +2,10 @@
 session_start();
 
 // Configuración de la base de datos
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'pasteleria');
+define('DB_HOST', 'sql207.infinityfree.com');
+define('DB_USER', 'if0_40817454');
+define('DB_PASS', 'Iy59XK87XpG9Id');
+define('DB_NAME', 'if0_40817454_pasteleria');
 
 // Precios de los pasteles
 define('PRECIO_BASICO', 15.00);
