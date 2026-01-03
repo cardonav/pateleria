@@ -1,0 +1,15 @@
+pasteleria/
+├── database/
+│   └── pasteleria.sql
+├── includes/
+│   ├── config.php
+│   └── functions.php
+├── css/
+│   └── styles.css
+├── js/
+│   └── scripts.js
+├── index.php
+├── nuevo_pedido.php
+├── editar_pedido.php
+├── eliminar_pedido.php
+└── README.md
